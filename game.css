@@ -1,0 +1,36 @@
+        * {
+            background-color: lightskyblue;
+        }
+        
+        body {
+            text-align: center;
+            background-color: transparent;
+        }
+        
+        .btn {
+            height: 50px;
+            width: 150 px;
+            background-color: #FFFF33;
+            box-shadow: none;
+            font-size: 20px;
+            padding: 15px;
+            color: grey;
+            border: none;
+        }
+        
+        .btn:hover {
+            background-color: grey;
+            color: #FFFF33;
+        }
+        
+        .heading {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 35px;
+            color: grey;
+        }
+        
+        #icon {
+            height: 90px;
+            padding-top: 100px;
+            background-color: transparent;
+        }
